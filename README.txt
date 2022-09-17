@@ -1,3 +1,2 @@
-The following is a script I wrote in 2022 for Vericast to investigate start rate performance.    Start rate is defined as number of start events for a video ad divided by 
-number of impressions served.  This was to address two primary concerns.  The first concern was over certain apps having unexpectedly poor start rate performance.   T
+The following is a script I wrote in 2022 for Vericast to investigate start rate performance.    Start rate is defined as number of start events for a video ad divided by number of impressions served.  This was to address two primary concerns.  The first concern was over certain apps having unexpectedly poor start rate performance.   T
 his contributes to the second concern, as start rate performance needs to be strong in order to run cost per completed view (CPCV) campaigns.
